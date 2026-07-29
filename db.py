@@ -2,9 +2,9 @@
 
 import os
 import sqlite3
-import unicodedata "Vietnamese support"
+import unicodedata #Vietnamese support"
 
-DB_PATH = os.environ.get("DB_PATH", "/data/recipes.db")
+DB_PATH = os.environ.get("DB_PATH", "./data/recipes.db")
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS recipe (
@@ -38,10 +38,22 @@ def connect() -> sqlite3.Connection:
 
 
 def norm(name: str) -> str:
-	# Standardize te string to use single, pre-composed characters (NFC)
-	clean_same = unicodedata.normalize('NFC', name)
-	
-    return " ".join(name.lower().split())
+	#1. NFD Standardize the string to use single, pre-composed characters (NFC)
+	decomposed_char = unicodedata.normalize('NFD', name)
+
+	#2. Keep only non-combininng characters
+	stripped = "".join(c for c in decomposed_char if unicodedata.category(c) != "Mn")
+
+	#3. Map đ -> d, Đ -> D
+	trans = str.maketrans({"đ": "d", "Đ": "D"})
+	translated = stripped.translate(trans)
+
+	#4. NFC - recompose (Korean hangul cleanup)
+	composed = unicodedata.normalize('NFC', translated)
+
+	#5. lowercase + collapse whitespace
+	return " ".join(composed.lower().split())
+
 
 
 def ingredient_ids(conn: sqlite3.Connection, names: list[str]) -> list[int]:
