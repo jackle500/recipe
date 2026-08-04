@@ -1,3 +1,22 @@
 {
-  "format_on_save": "on"
+  "format_on_save": "on",
+  "formatter": {
+    "language_server": {
+      "name": "ruff"
+    }
+  },
+  "languages": {
+    "Python": {
+      "language_servers": ["pyright", "ruff"]
+    },
+    "JavaScript": {
+      "formatter": "prettier"
+    },
+    "HTML": {
+      "formatter": "prettier"
+    },
+    "CSS": {
+      "formatter": "prettier"
+    }
+  }
 }

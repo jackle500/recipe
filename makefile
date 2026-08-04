@@ -7,8 +7,16 @@ run:
 test:
 	$(PY) -m pytest tests/ -v
 
-seed:
+seeds:
 	$(PY) scripts/load_seed.py
 
 staples:
 	$(PY) scripts/mark_staples.py
+
+format:
+	.venv/bin/ruff format .
+	npx prettier --write .
+
+lint:
+	.venv/bin/ruff check . --fix
+	npx prettier --check .

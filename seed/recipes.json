@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Bún chả",
+    "instructions": "Mix ground pork with minced shallot, garlic, fish sauce, sugar and black pepper; shape into small patties. Marinate sliced pork belly separately with the same aromatics plus a spoon of caramel sauce for color. Grill both over high heat until charred at the edges. Serve over soaked rice vermicelli with a bowl of warm nuoc cham (fish sauce, sugar, lime, garlic, chili, water), a plate of lettuce, Thai basil and rau răm, and pickled carrot and daikon on the side.",
+    "source_url": "https://myvietkitchen.com/bun-cha-ha-noi-recipe/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "pork belly", "qty": "300 g, sliced thin" },
+      { "name": "ground pork", "qty": "300 g" },
+      { "name": "rice vermicelli", "qty": "400 g dried" },
+      { "name": "shallot", "qty": "3, minced" },
+      { "name": "lemongrass", "qty": "2 stalks, minced" },
+      { "name": "lime", "qty": "2, juiced" },
+      { "name": "Thai basil", "qty": "1 handful" },
+      { "name": "rau răm", "qty": "1 handful" },
+      { "name": "carrot", "qty": "1, julienned" },
+      { "name": "daikon", "qty": "1 small, julienned" },
+      { "name": "nước mắm", "qty": "3 tbsp" },
+      { "name": "đường", "qty": "2 tbsp" },
+      { "name": "tỏi", "qty": "3 cloves" },
+      { "name": "black pepper", "qty": "to taste" }
+    ]
+  },
+  {
+    "title": "Thịt kho trứng",
+    "instructions": "Simmer pork belly cubes with shallot and garlic in a splash of caramel sauce until browned. Add coconut water, fish sauce and sugar, bring to a simmer and cook uncovered for about 45 minutes until the pork is tender and the fat turns glossy. Add peeled hard-boiled eggs for the last 30 minutes so they soak up the braising liquid. Serve with steamed rice and a side of pickled bean sprouts.",
+    "source_url": "https://www.hungryhuy.com/how-to-make-thit-heo-kho-voi-trung-vietnamese-braised-pork-with-hard-boiled-eggs/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "pork belly", "qty": "600 g, cubed" },
+      { "name": "eggs", "qty": "6, hard-boiled and peeled" },
+      { "name": "coconut water", "qty": "500 ml" },
+      { "name": "shallot", "qty": "2, sliced" },
+      { "name": "nước mắm", "qty": "3 tbsp" },
+      { "name": "đường", "qty": "2 tbsp, plus extra for caramel" },
+      { "name": "tỏi", "qty": "3 cloves" },
+      { "name": "black pepper", "qty": "to taste" }
+    ]
+  },
+  {
+    "title": "Chashu (Japanese Braised Pork Belly)",
+    "instructions": "Roll and tie the pork belly into a log, then sear on all sides. Whisk soy sauce, mirin, sake, sugar, ginger and garlic with water and bring to a simmer. Braise the pork low and slow, turning occasionally, until a skewer slides through with no resistance. Cool in the braising liquid before slicing thin for ramen or rice bowls.",
+    "source_url": "https://www.justonecookbook.com/homemade-chashu/",
+    "servings": 6,
+    "ingredients": [
+      { "name": "pork belly", "qty": "1 kg, rolled and tied" },
+      { "name": "soy sauce", "qty": "120 ml" },
+      { "name": "mirin", "qty": "120 ml" },
+      { "name": "sake", "qty": "60 ml" },
+      { "name": "sugar", "qty": "3 tbsp" },
+      { "name": "ginger", "qty": "1 knob, sliced" },
+      { "name": "garlic", "qty": "3 cloves" },
+      { "name": "spring onion", "qty": "2 stalks" }
+    ]
+  },
+  {
+    "title": "Bossam (Korean Boiled Pork Wraps)",
+    "instructions": "Simmer a block of pork belly with sliced onion, garlic, ginger, doenjang and a bay leaf until fork-tender, about an hour. Rest and slice thin. Serve wrapped in napa cabbage or lettuce leaves with ssamjang, thinly sliced garlic, and a side of kimchi.",
+    "source_url": "https://www.koreanbapsang.com/bossam-boiled-pork-wraps/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "pork belly", "qty": "800 g, whole piece" },
+      { "name": "napa cabbage", "qty": "1 head, leaves separated" },
+      { "name": "kimchi", "qty": "1 cup" },
+      { "name": "doenjang", "qty": "2 tbsp" },
+      { "name": "garlic", "qty": "6 cloves" },
+      { "name": "ginger", "qty": "1 knob" },
+      { "name": "onion", "qty": "1" },
+      { "name": "bay leaf", "qty": "2" },
+      { "name": "gochujang", "qty": "1 tbsp, for ssamjang" }
+    ]
+  },
+  {
+    "title": "Kimchi Jjigae",
+    "instructions": "Render sliced pork belly in a hot pot, then add well-fermented kimchi and cook until slightly caramelized. Pour in stock, gochujang and gochugaru, and simmer for 20 minutes to let the flavors deepen. Slide in cubed tofu and simmer a few minutes more, then finish with scallion.",
+    "source_url": "https://mykoreankitchen.com/kimchi-jjigae/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "pork belly", "qty": "200 g, sliced" },
+      { "name": "kimchi", "qty": "2 cups, well-fermented" },
+      { "name": "tofu", "qty": "1 block, cubed" },
+      { "name": "gochugaru", "qty": "2 tbsp" },
+      { "name": "gochujang", "qty": "1 tbsp" },
+      { "name": "spring onion", "qty": "2 stalks" },
+      { "name": "garlic", "qty": "2 cloves" },
+      { "name": "sesame oil", "qty": "1 tsp" }
+    ]
+  },
+  {
+    "title": "Mapo Tofu",
+    "instructions": "Fry doubanjiang with ginger and garlic in oil until the oil turns red, then brown the ground pork. Add stock and soft tofu cubes, simmering gently so the tofu doesn't break apart. Thicken with a cornstarch slurry and finish with a shower of ground Sichuan peppercorn and scallion.",
+    "source_url": "https://thewoksoflife.com/ma-po-tofu-real-deal/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "tofu", "qty": "400 g, soft, cubed" },
+      { "name": "ground pork", "qty": "150 g" },
+      { "name": "doubanjiang", "qty": "2 tbsp" },
+      { "name": "Sichuan peppercorn", "qty": "1 tsp, ground" },
+      { "name": "cornstarch", "qty": "1 tbsp" },
+      { "name": "spring onion", "qty": "2 stalks" },
+      { "name": "garlic", "qty": "3 cloves" },
+      { "name": "ginger", "qty": "1 tsp, minced" }
+    ]
+  },
+  {
+    "title": "Agedashi Tofu",
+    "instructions": "Pat silken tofu dry and dust each cube with potato starch. Deep-fry until the coating is crisp and lightly golden, then drain. Warm dashi with soy sauce and mirin, pour over the tofu, and top with grated daikon, scallion and bonito flakes.",
+    "source_url": "https://www.justonecookbook.com/agedashi-tofu-2/",
+    "servings": 2,
+    "ingredients": [
+      { "name": "tofu", "qty": "1 block, silken" },
+      { "name": "potato starch", "qty": "3 tbsp" },
+      { "name": "dashi", "qty": "200 ml" },
+      { "name": "soy sauce", "qty": "2 tbsp" },
+      { "name": "mirin", "qty": "2 tbsp" },
+      { "name": "daikon", "qty": "50 g, grated" },
+      { "name": "spring onion", "qty": "1 stalk" }
+    ]
+  },
+  {
+    "title": "Khao Soi",
+    "instructions": "Fry Thai red or khao soi curry paste in a little coconut milk until fragrant, then stir in the rest of the coconut milk, stock and chicken thigh. Simmer until the chicken is cooked through. Serve over boiled egg noodles, topped with crispy fried noodles, sliced shallot, pickled mustard greens and a wedge of lime.",
+    "source_url": "https://thewoksoflife.com/chicken-khao-soi/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "chicken thigh", "qty": "600 g, bone-in" },
+      { "name": "egg noodles", "qty": "400 g fresh" },
+      { "name": "coconut milk", "qty": "800 ml" },
+      { "name": "curry paste", "qty": "3 tbsp, khao soi or red curry" },
+      { "name": "shallot", "qty": "2, sliced" },
+      { "name": "pickled mustard greens", "qty": "1/2 cup" },
+      { "name": "fish sauce", "qty": "2 tbsp" },
+      { "name": "lime", "qty": "2, wedged" }
+    ]
+  },
+  {
+    "title": "Karaage (Japanese Fried Chicken)",
+    "instructions": "Marinate bite-sized chicken thigh in soy sauce, sake, grated ginger and garlic for at least an hour. Coat in potato starch and deep-fry in two passes — once to cook through, once briefly at higher heat for a crisp shell. Serve hot with lemon wedges.",
+    "source_url": "https://www.justonecookbook.com/karaage/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "chicken thigh", "qty": "600 g, bite-sized" },
+      { "name": "potato starch", "qty": "4 tbsp" },
+      { "name": "soy sauce", "qty": "2 tbsp" },
+      { "name": "sake", "qty": "1 tbsp" },
+      { "name": "ginger", "qty": "1 tsp, grated" },
+      { "name": "garlic", "qty": "1 tsp, grated" },
+      { "name": "lemon", "qty": "1, wedged" }
+    ]
+  },
+  {
+    "title": "Kung Pao Chicken",
+    "instructions": "Marinate diced chicken thigh briefly in soy sauce and cornstarch. Stir-fry dried chilies and Sichuan peppercorn in hot oil until fragrant, then add the chicken and sear. Toss in roasted peanuts and a quick sauce of soy sauce, black vinegar and sugar, finishing with scallion.",
+    "source_url": "https://redhousespice.com/kung-pao-chicken/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "chicken thigh", "qty": "500 g, diced" },
+      { "name": "peanuts", "qty": "100 g, roasted" },
+      { "name": "dried chili", "qty": "8, cut into pieces" },
+      { "name": "Sichuan peppercorn", "qty": "1 tsp" },
+      { "name": "cornstarch", "qty": "1 tbsp" },
+      { "name": "soy sauce", "qty": "2 tbsp" },
+      { "name": "black vinegar", "qty": "1 tbsp" },
+      { "name": "spring onion", "qty": "2 stalks" },
+      { "name": "garlic", "qty": "2 cloves" }
+    ]
+  },
+  {
+    "title": "Dakbokkeumtang",
+    "instructions": "Simmer bone-in chicken thigh with potato, carrot and onion in a gochujang-based sauce until the vegetables are tender and the sauce clings to the chicken. Finish with a scattering of scallion and sesame seed.",
+    "source_url": "https://www.maangchi.com/recipe/traditional-dakbokkeumtang",
+    "servings": 4,
+    "ingredients": [
+      { "name": "chicken thigh", "qty": "800 g, bone-in" },
+      { "name": "potato", "qty": "2, cut into chunks" },
+      { "name": "carrot", "qty": "1, cut into chunks" },
+      { "name": "onion", "qty": "1, cut into chunks" },
+      { "name": "gochujang", "qty": "3 tbsp" },
+      { "name": "soy sauce", "qty": "2 tbsp" },
+      { "name": "garlic", "qty": "3 cloves" },
+      { "name": "spring onion", "qty": "2 stalks" }
+    ]
+  },
+  {
+    "title": "Tom Yum Goong",
+    "instructions": "Bring stock to a boil with bruised lemongrass, galangal and kaffir lime leaves. Add oyster mushroom and shrimp, and cook just until the shrimp turns pink. Season off the heat with fish sauce, lime juice and a spoon of roasted chili paste so the sourness stays bright.",
+    "source_url": "https://hot-thai-kitchen.com/tom-yum-goong/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "shrimp", "qty": "400 g, shell-on" },
+      { "name": "oyster mushroom", "qty": "150 g" },
+      { "name": "lemongrass", "qty": "2 stalks, bruised" },
+      { "name": "kaffir lime leaves", "qty": "4" },
+      { "name": "galangal", "qty": "1 knob, sliced" },
+      { "name": "fish sauce", "qty": "3 tbsp" },
+      { "name": "lime", "qty": "2, juiced" },
+      { "name": "roasted chili paste", "qty": "1 tbsp" }
+    ]
+  },
+  {
+    "title": "Phở bò",
+    "instructions": "Char onion and ginger, then simmer with beef bones for several hours, skimming regularly, until the broth is clear and fragrant. Toast star anise, cinnamon and cloves and add to the pot for the last half hour. Pour the hot broth over rice noodles and thin-sliced raw beef so it cooks in the bowl, and serve with bean sprouts, Thai basil and lime.",
+    "source_url": "https://delightfulplate.com/authentic-vietnamese-beef-pho-noodle-soup/",
+    "servings": 6,
+    "ingredients": [
+      { "name": "beef bones", "qty": "2 kg" },
+      { "name": "beef", "qty": "400 g, thin-sliced (sirloin or brisket)" },
+      { "name": "rice noodles", "qty": "500 g, flat, fresh or dried" },
+      { "name": "star anise", "qty": "4 pods" },
+      { "name": "cinnamon stick", "qty": "1" },
+      { "name": "onion", "qty": "2, charred" },
+      { "name": "bean sprouts", "qty": "200 g" },
+      { "name": "Thai basil", "qty": "1 handful" },
+      { "name": "nước mắm", "qty": "3 tbsp" },
+      { "name": "lime", "qty": "2, wedged" }
+    ]
+  },
+  {
+    "title": "Bánh mì",
+    "instructions": "Marinate sliced pork shoulder in fish sauce, garlic, shallot and a little sugar, then sear until caramelized at the edges. Quick-pickle julienned carrot and daikon in vinegar, sugar and salt. Split a baguette, spread with pâté and mayonnaise, then layer in the pork, pickles, cucumber, cilantro and sliced chili.",
+    "source_url": "https://www.thekitchn.com/banh-mi-recipe-23707196",
+    "servings": 2,
+    "ingredients": [
+      { "name": "pork shoulder", "qty": "300 g, thin-sliced" },
+      { "name": "baguette", "qty": "2, Vietnamese-style" },
+      { "name": "pâté", "qty": "60 g" },
+      { "name": "carrot", "qty": "1, julienned" },
+      { "name": "daikon", "qty": "1 small, julienned" },
+      { "name": "cucumber", "qty": "1/2, sliced" },
+      { "name": "cilantro", "qty": "1 handful" },
+      { "name": "nước mắm", "qty": "2 tbsp" },
+      { "name": "tỏi", "qty": "2 cloves" },
+      { "name": "đường", "qty": "1 tbsp" }
+    ]
+  },
+  {
+    "title": "Japchae",
+    "instructions": "Soak glass noodles until pliable, then boil briefly and toss with sesame oil so they don't stick. Marinate thin-sliced beef in soy sauce, sugar and garlic, then stir-fry separately from the vegetables — carrot, onion, spinach and shiitake mushroom — so each keeps its own texture. Combine everything with the noodles and a soy-sesame dressing, finishing with sesame seed.",
+    "source_url": "https://thewoksoflife.com/japchae/",
+    "servings": 4,
+    "ingredients": [
+      { "name": "glass noodles", "qty": "300 g" },
+      { "name": "beef", "qty": "200 g, thin-sliced" },
+      { "name": "shiitake mushroom", "qty": "100 g, sliced" },
+      { "name": "carrot", "qty": "1, julienned" },
+      { "name": "onion", "qty": "1, sliced" },
+      { "name": "spinach", "qty": "150 g" },
+      { "name": "soy sauce", "qty": "3 tbsp" },
+      { "name": "sugar", "qty": "2 tbsp" },
+      { "name": "garlic", "qty": "2 cloves" },
+      { "name": "sesame oil", "qty": "1 tbsp" }
+    ]
+  }
+]
