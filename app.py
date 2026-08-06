@@ -90,9 +90,4 @@ async def import_preview():
     return JSONResponse(status_code=501, content={"task": "2.6"})
 
 
-@app.post("/api/invent")
-async def invent():
-    return JSONResponse(status_code=501, content={"task": "3.3"})
-
-
 app.mount("/", StaticFiles(directory="static", html=True), name="static")
